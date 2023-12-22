@@ -1,0 +1,1 @@
+Start /B "CloseAppEscape" "CloseAppEscape.exe" "Xeno Fighters R"
